@@ -26,8 +26,6 @@ void loop()
   delay(200);
     
   }
-
-    
   
  for (int i =10;i>-1;i--)//Ledlerimizin son sıradan başlayarak ilk ledimize doğru (soldan sağa) 200ms gecikme ile yanmasını sağlıyoruz.
                         //We make our leds turn on from the last row to our first led (from left to right) with a delay of 200ms.
